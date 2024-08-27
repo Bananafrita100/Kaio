@@ -1,16 +1,17 @@
-body {
+body{
    background-color: rgb(167, 8, 8)
 
 }
 
-p {
+p{
    color: rgb(255, 255, 255);
 
 }
 
-.Kaio {
+.Kaio{
    font-style: oblique;
 }
+
 .La{
-   text-align:center ;
+width: 50%;
 }
