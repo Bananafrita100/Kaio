@@ -20,7 +20,9 @@ h1{
    margin-top: 5px;
 }
 header{
-   border-bottom: solid 2px rgb(rgb(255, 255, 255);
-   padding: 20px;
-   font-size: 32px;
+   /* código omitido */
+
+header {
+   border: solid 2px rgb(42, 122, 228);
 }
+
