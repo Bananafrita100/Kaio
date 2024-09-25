@@ -28,8 +28,8 @@ header{
  }
  section {
    background: rgb(255, 255, 255);
-   padding-bottom: 80px;
-   padding-top: 80px;
+   padding-bottom: 30px;
+   padding-top: 30px;
    display: flex;
    justify-content: center;
  }
