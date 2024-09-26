@@ -1,5 +1,6 @@
 body{
    background-color: rgb(167, 8, 8)
+   font-family: "Chakra Petch", sans-serif;
 }
 
 p{
@@ -8,7 +9,7 @@ p{
 }
 
 .Kaio{
-   font-style: oblique;
+   
 }
 .La{
 width: 70%;
