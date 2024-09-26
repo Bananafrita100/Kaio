@@ -29,8 +29,8 @@ header{
  }
  section {
    background: rgb(rgb(255, 255, 255)
-   padding-bottom:
-   padding-top:;
+   padding-bottom: 20px;
+   padding-top:20px;
    display: flex;
    justify-content: center;
  }
