@@ -9,7 +9,7 @@ p{
 }
 
 .Kaio{
-   
+   font-style: oblique;
 }
 .La{
 width: 70%;
@@ -29,7 +29,6 @@ header{
    font-size: 20px;
  }
  section {
-   background: rgb(rgb(255, 255, 255)
    padding-bottom: 20px;
    padding-top:20px;
    display: flex;
