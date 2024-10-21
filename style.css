@@ -34,13 +34,14 @@ header{
    justify-content: center;
  }
  .carros{
+  background-size: 20px;
   background-color: white;
-  border: 1px solid #css;
+  border: 1px solid #css
   border-radius: 5px;
   box-shadow: 2px 2px 5px
 rgba(0,0,0,0.1)
   margin; 10px;
   padding: 10px;
-  width: 200px;
+  width: 20px;
   text-align: center;
  }.
