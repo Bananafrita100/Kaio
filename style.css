@@ -12,6 +12,7 @@ p{
 .La{
 width: 70%;
 justify-content: center;
+margin:0 auto
  }
 h1{
    font-size: 40px;
@@ -43,5 +44,3 @@ rgba(0,0,0,0.1)
   width: 200px;
   text-align: center;
  }
- marginn:0 auto
- 
